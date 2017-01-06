@@ -1,0 +1,16 @@
+1.python str() repr()  字符串化list等各种对象
+2.pow ** 指数运算
+3.chr() ord()
+4.hex(),oct()
+5.if __name__ == '__main__'
+6.[::-1] [::2](隔一个取一个操作)
+7.range()
+8.dict has_key()或者in 检查某个键值是否在dict中
+9.集合类型 set
+10.序列相关的内建函数：
+	xrange() range() sorted() reversed() enumerate() zip()
+	[(x,y) for x in range(3) for y in range(3)]
+11.python装饰器功能 https://www.zhihu.com/question/26930016
+12.python 正则表达式 match search group()匹配子组功能 findall() 
+13.非贪婪模式 * + ？后使用？
+14.
